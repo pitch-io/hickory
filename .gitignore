@@ -13,3 +13,4 @@ pom.xml
 out/
 .lsp
 .clj-kondo
+.cpcache
